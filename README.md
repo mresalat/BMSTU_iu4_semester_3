@@ -1,4 +1,4 @@
-# BMSTU_iu4_semester_3
+# RESALAT_BMSTU_iu4_semester_3
 
 Семинар №1 Задание №14
 Вар 2 
