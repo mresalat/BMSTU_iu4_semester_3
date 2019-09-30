@@ -18,3 +18,5 @@ File name: sem1_prob14_var2.c
 
 File name: sem2_prob9.c
 
+Используемый компилятор - GCC/GNU compiler
+
